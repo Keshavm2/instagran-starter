@@ -1,0 +1,65 @@
+{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body{
+
+    padding: 0;
+    height: inherit;
+    width: inherit;
+    background-color: #fafafa;
+    margin: 0;
+}
+
+#stories{
+
+    height: 90px;
+    width: 70vw;
+    margin-top: -5px;
+    border: 1px solid #b5b5b5;
+    margin left:auto;
+    margin right: auto;
+    border-radius: 2px;
+    padding-left: 30px;
+
+}
+
+user{
+
+    width:18%
+    display:inline-block;
+}
+
+user p{
+    text-align:center;
+    margin:0;
+    font-family: 'Lucida Sans Unicode';
+    font weight: 100;
+    font-size: smaller;
+
+}
+
+post-header{
+
+    color:white;
+    height: 50px;
+    border: 2px;
+    width: 70vw;
+    padding-right: 5px;
+    padding-left: 5px;
+    border: 1px solid #b5b5b5;
+
+}
+
+Navbar{
+
+    color: white;
+    
+}
